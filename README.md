@@ -1,5 +1,9 @@
 # livingartcork.net
 
+<p align="center">
+  <img src=".github/logo.png" alt="www.livingartcork.net logo" width="128" />
+</p>
+
 The site for Living Art, a tattoo and piercing studio in Cork.
 
 ## Contents
